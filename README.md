@@ -35,7 +35,7 @@ Acceda a la aplicación:  https://certificadoapp-3bb25.web.app/
 
 `password: 123456`
 
-Image:
+Imágenes de referencia:
 
 ![](https://firebasestorage.googleapis.com/v0/b/certificadoapp-3bb25.appspot.com/o/imagenes%2Fprueba.jpg?alt=media&token=7d0b0712-c8fd-4c8f-ad36-83f5bf96a65d)
 
