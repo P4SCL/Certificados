@@ -22,7 +22,7 @@ Aplicación web encargada de generar **certificados digitales**. Podemos observa
 
 2. Para acceder necesitas autenticarte con las credenciales, debido a que sólo el rol **ADMIN** puede realizar las operaciones CRUD.
 
-3. Para generar los certificados y poder descargarlos utilicé la librería **Pdfmake-wrapper** que mediante los servicios obtiene la información necesaria para generar el certificado digital en formato PDF.
+3. Para generar los certificados utilicé la librería **Pdfmake-wrapper**, que mediante los servicios, obtiene la información necesaria para generar el certificado digital en formato PDF.
 
 ------------
 
@@ -34,6 +34,7 @@ Acceda a la aplicación:  https://certificadoapp-3bb25.web.app/
 `username: prueba@gmail.com`
 
 `password: 123456`
+
 
 Imágenes de referencia:
 
