@@ -18,7 +18,7 @@ Aplicación web encargada de generar **certificados digitales**. Podemos observa
 
 ------------
 ### Análisis
-1. El flujo de la aplicación es sencilla, el mayor parte del front-end está hecha con Angular, mediante los **servicios** realizamos operaciones CRUD ( CREATE - READ - UPDATE - DELETE ) a Google Cloud Firestore.
+1. El flujo de la aplicación es sencilla, la mayor parte del front-end está hecha con Angular, mediante los **servicios** realizamos operaciones CRUD ( CREATE - READ - UPDATE - DELETE ) a Google Cloud Firestore.
 
 2. Para acceder necesitas autenticarte con las credenciales, debido a que sólo el rol **ADMIN** puede realizar las operaciones CRUD.
 
